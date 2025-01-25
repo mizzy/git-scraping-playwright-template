@@ -7,7 +7,7 @@ import * as fs from "fs";
   });
   const context = await browser.newContext();
   const page = await context.newPage();
-  await page.goto("https://yahoo.co.jp");
+  await page.goto("https://example.jp");
 
   const pTags = await page.$$eval("p", (elements) =>
     elements.map((el) => ({

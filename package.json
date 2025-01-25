@@ -21,6 +21,7 @@
     "prettier": "^3.4.2"
   },
   "dependencies": {
+    "tsimp": "^2.0.12",
     "tsx": "^4.19.2",
     "typescript": "5.5"
   }

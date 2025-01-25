@@ -1,0 +1,27 @@
+{
+  "name": "git-scraping-playwright-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizzy/git-scraping-playwright-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mizzy/git-scraping-playwright-template/issues"
+  },
+  "homepage": "https://github.com/mizzy/git-scraping-playwright-template#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^22.10.10",
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "5.5"
+  }
+}
